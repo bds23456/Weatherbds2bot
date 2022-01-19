@@ -1,0 +1,15 @@
+/a/a.spec
+/a/__pycache__
+/a/build
+/a/dist
+/b/b.spec
+/b/build
+/b/__pycache__
+/b/dist
+errors.txt
+/c/c.spec
+/c/build
+/c/__pycache__
+/c/dist
+/c/token.txt
+/.vscode
